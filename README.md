@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @boghy7000
+- 👋 Hi, I’m Bogdan SCAUERU
 - 👀 I’m interested in electrical design
 - 🌱 I’m currently learning VB.NET
 - 💞️ I’m looking to collaborate on AutoCAD/Revit macro/plugins
